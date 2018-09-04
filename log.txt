@@ -43,3 +43,15 @@ Exception in thread "AWT-EventQueue-0" java.lang.ArrayIndexOutOfBoundsException:
 2018-09-04 11:24:33:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
 2018-09-04 11:24:34:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/anigupta2/Downloads/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
 2018-09-04 11:24:35:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+2018-09-04 14:49:48:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2018-09-04 14:49:49:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/anigupta2/Downloads/cognizant-intelligent-test-scripter-1.1/lib/cognizant-intelligent-test-scripter-engine-1.1.jar
+2018-09-04 14:49:50:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+2018-09-04 14:50:11:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/Users/anigupta2/Downloads/cognizant-intelligent-test-scripter-1.1/Projects/Cargill_CASN/TestPlan/NewScenario/NewTestCase.csv] doesn't exist
+2018-09-04 14:50:11:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/Users/anigupta2/Downloads/cognizant-intelligent-test-scripter-1.1/Projects/Cargill_CASN/TestLab/NewRelease/NewTestSet.csv] doesn't exist
+2018-09-04 14:51:00:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/anigupta2/Downloads/cognizant-intelligent-test-scripter-1.1/Projects/Cargill_CASN/TestPlan/NewScenario Renamed to Create Contact
+2018-09-04 14:51:00:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring started for Scenario [NewScenario] to [Create Contact]
+2018-09-04 14:51:00:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/Users/anigupta2/Downloads/cognizant-intelligent-test-scripter-1.1/Projects/Cargill_CASN/TestPlan/NewScenario/NewTestCase.csv] doesn't exist
+2018-09-04 14:51:00:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring done for Scenario [NewScenario] to [Create Contact]
+2018-09-04 14:51:42:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/Users/anigupta2/Downloads/cognizant-intelligent-test-scripter-1.1/Projects/Cargill_CASN/TestPlan/NewScenario Renamed to Dashboard
+2018-09-04 14:51:42:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring started for Scenario [NewScenario] to [Dashboard]
+2018-09-04 14:51:42:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring done for Scenario [NewScenario] to [Dashboard]
